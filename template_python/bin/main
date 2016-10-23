@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+
+import template_python.main
+
+if __name__ == '__main__':
+    template_python.main.run()

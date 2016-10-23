@@ -189,5 +189,5 @@ include_directories(
 # catkin_add_nosetests(test)
 
 #Add binaries to ensure installation to correct location
-catkin_install_python(PROGRAMS bin/hello
+catkin_install_python(PROGRAMS bin/main
       DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
