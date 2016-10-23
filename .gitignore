@@ -1,0 +1,14 @@
+#Python binaries
+*.pyc
+
+#Vim files
+*.swp
+*.swo
+
+#Gedit lock files
+*~
+
+#Other common binaries that shouldn't be in source
+*.pdf
+*.exe
+*.bin
